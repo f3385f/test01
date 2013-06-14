@@ -1,3 +1,4 @@
 test01 | 01 | LG
 test03 | 01 | Samsung
 test01 | 02 | LG
+test03 | 02 | Samsung
